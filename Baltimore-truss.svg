@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="793.5155"
+   height="267.15961"
+   id="svg2401"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="baltimore-truss.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs2403">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2409" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-106.42857"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="665"
+     inkscape:window-height="670"
+     inkscape:window-x="427"
+     inkscape:window-y="37" />
+  <metadata
+     id="metadata2406">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Baltimore Truss</dc:title>
+        <dc:date>2015-05-19</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>fmiser</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Diagram of a Baltimore truss as used in bridge construction.</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(21.757764,-398.78238)">
+    <polygon
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#9f9f9f;fill-opacity:1;stroke:#9f9f9f;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="polygon4253"
+       points="296.71,72.477 361.51,72.477 361.51,108.93 296.71,108.93 296.71,72.477 "
+       transform="matrix(0,1.2220731,1.2220731,0,-109.52571,158.18376)" />
+    <polygon
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#9f9f9f;fill-opacity:1;stroke:#9f9f9f;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="polygon4249"
+       points="296.71,684.02 361.51,684.02 361.51,720.48 296.71,720.48 296.71,684.02 "
+       transform="matrix(0,1.2220731,1.2220731,0,-109.52571,158.18376)" />
+    <polyline
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.26512766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="polyline4215"
+       points="296.71,202.07 199.51,202.07 296.71,104.88 "
+       transform="matrix(0,1.2220731,1.2220731,0,-109.52571,158.18376)" />
+    <polyline
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.26512766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="polyline4217"
+       points="296.71,202.07 199.51,202.07 296.71,299.27 "
+       transform="matrix(0,1.2220731,1.2220731,0,-109.52571,158.18376)" />
+    <polyline
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.26512766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="polyline4219"
+       points="296.71,299.27 199.51,299.27 296.71,396.48 "
+       transform="matrix(0,1.2220731,1.2220731,0,-109.52571,158.18376)" />
+    <polyline
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.26512766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="polyline4221"
+       points="296.71,493.68 199.51,493.68 296.71,396.48 "
+       transform="matrix(0,1.2220731,1.2220731,0,-109.52571,158.18376)" />
+    <polyline
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.26512766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="polyline4223"
+       points="296.71,590.88 199.51,590.88 296.71,493.68 "
+       transform="matrix(0,1.2220731,1.2220731,0,-109.52571,158.18376)" />
+    <polyline
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.26512766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="polyline4225"
+       points="296.71,590.88 199.51,590.88 296.71,688.07 "
+       transform="matrix(0,1.2220731,1.2220731,0,-109.52571,158.18376)" />
+    <line
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:6.43437052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="line4227"
+       y2="401.99957"
+       x2="612.57288"
+       y1="401.99957"
+       x1="137.41861" />
+    <line
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:6.43437052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="line4229"
+       y2="520.7851"
+       x2="18.645313"
+       y1="520.7851"
+       x1="731.34613" />
+    <line
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:6.43437052;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="line4231"
+       y2="401.99957"
+       x2="375.00186"
+       y1="520.7851"
+       x1="375.00186" />
+    <text
+       style="font-size:49.49396133px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:'Helvetica,sans-serif'"
+       id="text4233"
+       font-size="20px"
+       x="204.88927"
+       y="599.9754">Baltimore Truss</text>
+    <polyline
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.26512766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="polyline4235"
+       points="296.71,202.07 248.11,153.48 296.71,153.48 "
+       transform="matrix(0,1.2220731,1.2220731,0,-109.52571,158.18376)" />
+    <polyline
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.26512766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="polyline4237"
+       points="296.71,202.07 248.11,250.68 296.71,250.68 "
+       transform="matrix(0,1.2220731,1.2220731,0,-109.52571,158.18376)" />
+    <polyline
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.26512766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="polyline4239"
+       points="296.71,299.27 248.11,347.88 296.71,347.88 "
+       transform="matrix(0,1.2220731,1.2220731,0,-109.52571,158.18376)" />
+    <polyline
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.26512766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="polyline4241"
+       points="296.71,493.68 248.11,445.07 296.71,445.07 "
+       transform="matrix(0,1.2220731,1.2220731,0,-109.52571,158.18376)" />
+    <polyline
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.26512766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="polyline4243"
+       points="296.71,590.88 248.11,542.27 296.71,542.27 "
+       transform="matrix(0,1.2220731,1.2220731,0,-109.52571,158.18376)" />
+    <polyline
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.26512766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="polyline4245"
+       points="296.71,590.88 248.11,639.48 296.71,639.48 "
+       transform="matrix(0,1.2220731,1.2220731,0,-109.52571,158.18376)" />
+    <text
+       style="font-size:24.74698067px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-family:'Helvetica,sans-serif'"
+       id="text4247"
+       font-size="20px"
+       x="53.315514"
+       y="657.1073">Pratt variation with extra half-length verticals and diagonals</text>
+    <polygon
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.31620002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="polygon4251"
+       points="296.71,684.02 361.51,684.02 361.51,720.48 296.71,720.48 296.71,684.02 "
+       transform="matrix(0,1.2220731,1.2220731,0,-109.52571,158.18376)" />
+    <polygon
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.31620002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="polygon4255"
+       points="296.71,72.477 361.51,72.477 361.51,108.93 296.71,108.93 296.71,72.477 "
+       transform="matrix(0,1.2220731,1.2220731,0,-109.52571,158.18376)" />
+  </g>
+</svg>
